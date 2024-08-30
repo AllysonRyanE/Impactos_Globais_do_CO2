@@ -31,10 +31,18 @@ Conheça quem faz parte do nosso time
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/jorgelcff" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/80436467?v=4" width="100px;" alt="Foto"/><br>
+      <a href="https://github.com/erickdan1" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/115114338?v=4" width="100px;" alt="Foto"/><br>
         <sub>
           <b>Erick Daniel</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gabbrbsCin" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/114198656?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Gabriel Barbosa</b>
         </sub>
       </a>
     </td>
@@ -42,7 +50,7 @@ Conheça quem faz parte do nosso time
       <a href="https://github.com/LucasGaab" title="defina o titulo do link">
         <img src="https://avatars.githubusercontent.com/u/94190622?v=4" width="100px;" alt="Foto"/><br>
         <sub>
-          <b>Gabriel Barbosa</b>
+          <b>Lucas Gabriel</b>
         </sub>
       </a>
     </td>
